@@ -2,7 +2,7 @@
 
 Following are a few white papers. You can download them from the “Latest Thinking” section from my blog: asiliconvalleyinsider.com.
 
-Machine Learning Algorithms
+# Machine Learning Algorithms
 
 The goal of Machine Learning (ML) is to develop algorithms for making predictions from an existing data set. First, you start by collecting the data and analyzing it. Second, you build a model for it and select a ML algorithm. Third, you evaluate and tune the model and the algorithm. Last, you deploy it and make live predictions. There are three major approaches to ML: Regression finds a function to which a new instance belongs to; Classification establishes the category (or class) to which a new instance belongs to; And clustering groups/clusters the instances into categories (or classes).
 
