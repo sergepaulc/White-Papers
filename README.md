@@ -53,4 +53,4 @@ Read more: [Ethernet Transport](https://siliconvalleyinsider.files.wordpress.com
 
 Released in 1996, the Java Telephony (JTAPI) was the first application programming interface to support both first-party (desktop telephony) and third-party (server telephony) applications. The core of the API provides a basic call control model for rudimentary telephony features such as Internet telephony. The standard extensions of the API provide advanced functionality for various telephony capabilities such as media streams or telephony applications such as call centers.
 
-Read more: [The Java Telephony API](https://siliconvalleyinsider.files.wordpress.com/2023/08/the-java-telephony-api-2.pdf)https://siliconvalleyinsider.files.wordpress.com/2023/08/the-java-telephony-api-2.pdf)
+Read more: [The Java Telephony API](https://siliconvalleyinsider.files.wordpress.com/2023/08/the-java-telephony-api-2.pdf] (https://siliconvalleyinsider.files.wordpress.com/2023/08/the-java-telephony-api-2.pdf)
